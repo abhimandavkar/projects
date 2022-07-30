@@ -1,0 +1,96 @@
+.first_Box{
+    background-color: #000000;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2rem;
+    height: 60%;
+    margin-top: 0.5%;
+    align-items: center;
+}
+.point_Tag{
+    padding: 1rem;
+    /* margin-left: 5%; */
+    text-align: left;
+}
+.point_Tag h1{
+    color: white;
+    font-size: 350%;
+}
+.point_Tag p{
+    color: white;
+    font-size: 200%;
+}
+
+.second_Box{
+    background-color: #000000;
+    display: flex;
+    margin-top: 0.5%;
+    justify-content: space-evenly;
+    padding: 5rem;
+    height: 30vh;
+    align-items: center;
+}
+.point_2{
+    padding: 15rem;
+    text-align: left;
+    /* margin-left: 15vw; */
+}
+.point_2 h1{
+    color: white;
+    font-size: 350%;
+}
+.point_2 p{
+    color: white;
+    font-size: 200%;
+    /* width: 45vw; */
+}
+.second_Box img{
+    position: relative;
+    /* margin-right: -20%; */
+    /* margin-left: 10%; */
+    height: 40vh;
+    background: transparent;
+}
+.third_Box{
+    background-color: #000000;
+    display: inline-flex;
+    margin-top: 0.5%;
+    justify-content: space-evenly;
+    padding: 5rem;
+    height: 30vh;
+    align-items: center;
+}
+.point_3 h1{
+    color: white;
+    font-size: 350%;
+}
+.point_3 p{
+    color: white;
+    font-size: 200%;
+}
+.third_Box img{
+    position: relative;
+    height: 50vh;
+    /* margin-right: -10%; */
+}
+.forth_Box{
+    background-color: #000000;
+    display: inline-flex;
+    margin-top: 0.5%;
+    justify-content: space-evenly;
+    padding: 5rem;
+    height: 30vh;
+    align-items: center;
+}
+.forth_Box img{
+    height: 40vh;
+    /* margin-left: 15%; */
+}
+.point_4 h1{
+    color: white;
+    font-size: 350%;
+}
+.point_4 p{
+    color: white;
+    font-size: 200%;
+}
